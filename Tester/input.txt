@@ -1,0 +1,10 @@
+ionic compound|a compound made of oppositely charged ions
+ionic bond|a strong attraction that forms betweeen oppositely charged ions
+covalent compound|a compound that results when atoms of two or more elements bond covalently
+covalent bond|a strong attraction between atoms that forms when atoms share valence electrons
+molecule|a particle made up of two or more atoms bonded by covalent bonds
+law of conservation of mass|in a chemical reaction the total mass of the substances used is equal to the total mass of the substances produced
+chemical equation|a representation of a chemical reaction using words or chemical formulas
+reactant|a substance that undergoes a chemical change
+product|a new substance formed from a chemical reaction
+coefficient|a number placed in front of a chemical formula in a balanced chemical equation to show the ratios of substances in reaction
