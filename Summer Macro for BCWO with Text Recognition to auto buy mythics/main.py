@@ -189,13 +189,13 @@ GoToRainMerchant()
     #result = getMerchantResult()
 
     #webhook = DiscordWebhook(
-    #    url="https://discord.com/api/webhooks/869659714953293864/Jh88YIeoeRIsXvRNVSF3naWfUkEgQytaK0ZW3cTO__8G93YYZzXxs0_NQcxkDQcdMhB4",
+    #    url="removed",
     #    content=result)
     #response = webhook.execute()
     #webhook.delete()
 
     #if result.find("arb") != -1:
-    #    webhook = DiscordWebhook(url="https://discord.com/api/webhooks/869659714953293864/Jh88YIeoeRIsXvRNVSF3naWfUkEgQytaK0ZW3cTO__8G93YYZzXxs0_NQcxkDQcdMhB4", content="arb found @everyone")
+    #    webhook = DiscordWebhook(url="removed", content="arb found @everyone")
     #    response = webhook.execute()
     #    webhook.delete()
 
